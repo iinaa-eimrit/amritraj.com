@@ -30,7 +30,7 @@ export function Footer() {
         <div>
           <a href="#about" className="text-white hover:text-gray-400 mx-2">About</a> |
           <a href="#contact" className="text-white hover:text-gray-400 mx-2">Contact</a> |
-          <a href="https://drive.google.com/file/d/1YpzO17_2CP78jcxFC6d0QK6I3Lfvpnbj/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 mx-2">Resume</a>
+          <a href="https://drive.google.com/file/d/1FKCE8S2sDWzgIj_MqQUP07s2N3GoZp5R/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 mx-2">Resume</a>
         </div>
       </div>
     </footer>
