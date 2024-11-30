@@ -71,6 +71,17 @@ const projects: Project[] = [
     githubUrl: "https://github.com/iinaa-eimrit/An-Interactive-Kanban-Board-Application",
     liveUrl: "https://an-interactive-kanban-board-application-ceoc.vercel.app/",
   },
+  {
+    "title": "Living Canvas",
+    "subtitle": "Interactive Generative Art Museum",
+    "description": "A dynamic web application that brings generative art to life. Users can explore various interactive art modes, customize visuals, and create unique designs with mouse and sound interactivity. Features include real-time shaders, exportable artworks, and a modular architecture for scalability. Built with React, TypeScript, p5.js, Tailwind CSS, and modern performance optimization techniques.",
+    "imageUrl": "/living-canvas.png",
+    "technologies": ["React", "TypeScript", "p5.js", "Tailwind CSS", "Web Audio API", "Offscreen Canvas"],
+    "date": "2024",
+    "author": "Amrit Raj",
+    "githubUrl": "https://github.com/iinaa-eimrit/Living-Canvas",
+    "liveUrl": "https://living-canvas.vercel.app/"
+  },
 ];
 
 function ProjectCard({ project }: { project: Project }) {
